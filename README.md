@@ -3,6 +3,7 @@
 This Python script is a Hangman game where players guess letters to uncover a hidden word, with a maximum of 6 incorrect guesses allowed.
 
 Key Features:
+
 Word Guessing: Players reveal the word by guessing letters.
 
 Life System: 6 lives are available; incorrect guesses reduce lives.
